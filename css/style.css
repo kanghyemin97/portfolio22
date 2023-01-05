@@ -262,7 +262,7 @@ nav li a {
 
 .bg-nav {
     background: rgb(0, 0, 0);
-    border-bottom: 1px solid #f3f3f3
+    border-bottom: 1px solid #5a5a5a;
 }
 
 .bg-nav ul {
@@ -620,7 +620,7 @@ a.active {
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
     background-color: #4cbb27;
-    outline: 10px solid #f3f3f3;
+    outline: 10px solid #5a5a5a;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
     position: absolute;
